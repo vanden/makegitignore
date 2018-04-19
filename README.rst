@@ -44,3 +44,11 @@ in your ``~/.bashrc`` you can then run the script simply by running
 ::
 
 $  makegitignore.py
+
+Run it as
+
+::
+
+$  makegitignore.py -h
+
+to get a brief help message explaining the command line arguments.
